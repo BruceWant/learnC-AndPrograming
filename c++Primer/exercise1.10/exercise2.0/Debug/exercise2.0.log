@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (exercise2.0.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  exercise2.0.cpp
+  exercise2.0.vcxproj -> C:\Users\Wangsir\source\repos\exercise2.0\Debug\exercise1.10.exe

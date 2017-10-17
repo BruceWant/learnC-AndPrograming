@@ -1,0 +1,7 @@
+﻿  exercise1.5.cpp
+c:\users\wangsir\source\repos\exercise1.5\exercise1.5\exercise1.5.cpp(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\wangsir\source\repos\exercise1.5\exercise1.5\exercise1.5.cpp(7): error C2146: syntax error: missing ';' before identifier 'nest'
+c:\users\wangsir\source\repos\exercise1.5\exercise1.5\exercise1.5.cpp(10): warning C4138: '*/' found outside of comment
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(360,5): error MSB6006: "CL.exe" exited with code 2.
+c:\users\wangsir\source\repos\exercise1.5\exercise1.5\exercise1.5.cpp(21): error C2143: syntax error: missing ';' before '{'
+c:\users\wangsir\source\repos\exercise1.5\exercise1.5\exercise1.5.cpp(21): error C2447: '{': missing function header (old-style formal list?)
