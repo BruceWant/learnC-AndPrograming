@@ -1,0 +1,3 @@
+﻿  experiment2.cpp
+c:\users\wangsir\source\repos\progprinprac\experiment2\experiment2\experiment2.cpp(9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  experiment2.vcxproj -> C:\Users\Wangsir\source\repos\progPrinPrac\experiment2\Debug\experiment2.exe
