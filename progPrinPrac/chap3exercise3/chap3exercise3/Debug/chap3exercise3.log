@@ -1,0 +1,3 @@
+﻿  exercise3.cpp
+c:\users\wangsir\source\repos\progprinprac\chap3exercise3\chap3exercise3\exercise3.cpp(10): error C2632: 'int' followed by 'double' is illegal
+c:\users\wangsir\source\repos\progprinprac\chap3exercise3\chap3exercise3\exercise3.cpp(10): warning C4091: '': ignored on left of 'int' when no variable is declared
