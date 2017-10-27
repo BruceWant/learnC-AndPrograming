@@ -12,7 +12,10 @@ int main()
 		{
 			if (val1 < val2)
 			{
+				double large;
+				if (large < val2)
 				cout << val2 << " is the largest so far." << endl;
+				large = val2;
 			}
 			else if (val1 > val2)
 			{
